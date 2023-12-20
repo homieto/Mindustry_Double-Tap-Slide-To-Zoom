@@ -1,4 +1,4 @@
-package double.tab.zoom;
+package double.tap.zoom;
 
 import arc.input.GestureDetector;
 import arc.math.geom.Vec2;
